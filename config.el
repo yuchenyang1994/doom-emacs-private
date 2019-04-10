@@ -14,6 +14,7 @@
  lsp-ui-sideline-enable nil
  lsp-ui-sideline-ignore-duplicate t
  lsp-enable-completion-at-point t
+ lsp-ui-doc-enable nil
  lsp-ui-doc-position 'at-point
  )
 
